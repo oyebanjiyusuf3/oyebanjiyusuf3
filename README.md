@@ -20,6 +20,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyebanjiyusuf3&layout=compact)](https://github.com/oyebanjiyusuf3/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oyebanjiyusuf3&theme=dark)](https://git.io/streak-stats)
+
 <!---
 oyebanjiyusuf3/oyebanjiyusuf3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
