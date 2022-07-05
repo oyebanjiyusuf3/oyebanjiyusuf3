@@ -1,5 +1,8 @@
 
 # Hi, 👋 I’m Yusuf Oyebanji
+
+**A passionate Software Engineer from Nigeria but currently in the United Kingdom**
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=oyebanjiyusuf3&theme=onedark)](https://github.com/oyebanjiyusuf3/github-profile-trophy)
 - 👀 I’m interested in working with you and my stack is JavaScript (React), MySql and PHP...
 - 💞️ I’m open to learning new programming languages/ tools ...
