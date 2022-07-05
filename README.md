@@ -13,7 +13,7 @@
 - 💞️ professional experience in software development focuses on financial technology and educational technology.
 - 💬 How to reach me, please send me a mail at oyebanjiyusuf3@gmail.com ...
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=oyebanjiyusuf3)](https://github.com/oyebanjiyusuf3/github-readme-activity-graph)
+[![Yusuf's github activity graph](https://activity-graph.herokuapp.com/graph?username=oyebanjiyusuf3)](https://github.com/oyebanjiyusuf3/github-readme-activity-graph)
 
 ## Languages and Tools
 ![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyebanjiyusuf3&show_icons=true&theme=radical)
