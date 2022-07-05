@@ -10,7 +10,7 @@
 - 💞️ Vast experience in C#.Net, Python for web and Machine Learning
 - 💞️ I have successfully managed and completed over 5 IT product-led projects either as an individual or in a team.
 - 📝 I write articles releated to tech on https://medium.com/@oyebanjiyusuf3
-- 💞️ professional experience in software development focuses on financial technology and educational technology.
+- 💞️ professional experience in software development focuses on financial and educational technology.
 - 💬 How to reach me, please send me a mail at oyebanjiyusuf3@gmail.com ...
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=oyebanjiyusuf3)](https://github.com/oyebanjiyusuf3/github-readme-activity-graph)
