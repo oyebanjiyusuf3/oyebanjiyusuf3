@@ -4,15 +4,19 @@
 **A passionate Software Engineer from Nigeria but currently in the United Kingdom**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=oyebanjiyusuf3&theme=onedark)](https://github.com/oyebanjiyusuf3/github-profile-trophy)
-- 👀 I’m interested in working with you and my stack is JavaScript (React), MySql and PHP...
-- 💞️ I’m open to learning new programming languages/ tools ...
-- 🌱 I’m currently learning Python for Machine Learning and currently a Master student ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, please send me a mail at oyebanjiyusuf3@gmail.com ...
+
+- 💞️ A competent and innovative software engineer that develops and codes client-facing web applications. 
+- 💞️ Proficiency in HTML, CSS, JavaScript, PHP, MySQL and Microsoft Azure.
+- 💞️ Vast experience in C#.Net, Python for web and Machine Learning
+- 💞️ I have successfully managed and completed over 5 IT product-led projects either as an individual or in a team.
+- 📝 I write articles releated to tech on https://medium.com/@oyebanjiyusuf3
+- 💞️ professional experience in software development focuses on financial technology and educational technology.
+- 💬 How to reach me, please send me a mail at oyebanjiyusuf3@gmail.com ...
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=oyebanjiyusuf3)](https://github.com/oyebanjiyusuf3/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=oyebanjiyusuf3)](https://github.com/oyebanjiyusuf3/github-profile-trophy)
+Languages and tools
+![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyebanjiyusuf3&show_icons=true&theme=radical)
 
 
 
