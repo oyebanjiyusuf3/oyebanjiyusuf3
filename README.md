@@ -3,7 +3,6 @@
 
 **A passionate Software Engineer from Nigeria but currently in the United Kingdom**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=oyebanjiyusuf3&theme=onedark)](https://github.com/oyebanjiyusuf3/github-profile-trophy)
 
 - 💞️ A competent and innovative software engineer that develops and codes client-facing software applications. 
 - 💞️ Proficiency in HTML, CSS, JavaScript, PHP, MySQL and Microsoft Azure.
@@ -13,7 +12,8 @@
 - 💞️ professional experience in software development focuses on financial technology and educational technology.
 - 💬 How to reach me, please send me a mail at oyebanjiyusuf3@gmail.com ...
 
-[![Yusuf's github activity graph](https://activity-graph.herokuapp.com/graph?username=oyebanjiyusuf3)](https://github.com/oyebanjiyusuf3/github-readme-activity-graph)
+[![Yusuf's github activity graph](https://activity-graph.herokuapp.com/graph?username=oyebanjiyusuf3&theme=dracula)](https://github.com/oyebanjiyusuf3/github-readme-activity-graph)
+
 
 ## Languages and Tools
 ![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyebanjiyusuf3&show_icons=true&theme=radical)
