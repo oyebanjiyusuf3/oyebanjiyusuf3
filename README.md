@@ -1,5 +1,5 @@
 
-- 👋 ##Hi, I’m Yusuf Oyebanji
+- 👋 #Hi, I’m Yusuf Oyebanji
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=oyebanjiyusuf3&theme=onedark)](https://github.com/oyebanjiyusuf3/github-profile-trophy)
 - 👀 I’m interested in working with you and my stack is JavaScript (React), MySql and PHP...
