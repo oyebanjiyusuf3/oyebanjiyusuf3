@@ -19,7 +19,7 @@
 ![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyebanjiyusuf3&show_icons=true&theme=radical)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abduljeleelng&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oyebanjiyusuf3&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyebanjiyusuf3&layout=compact)](https://github.com/oyebanjiyusuf3/github-readme-stats)
 
