@@ -5,7 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=oyebanjiyusuf3&theme=onedark)](https://github.com/oyebanjiyusuf3/github-profile-trophy)
 
-- 💞️ A competent and innovative software engineer that develops and codes client-facing web applications. 
+- 💞️ A competent and innovative software engineer that develops and codes client-facing software applications. 
 - 💞️ Proficiency in HTML, CSS, JavaScript, PHP, MySQL and Microsoft Azure.
 - 💞️ Vast experience in C#.Net, Python for web and Machine Learning
 - 💞️ I have successfully managed and completed over 5 IT product-led projects either as an individual or in a team.
@@ -15,10 +15,10 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=oyebanjiyusuf3)](https://github.com/oyebanjiyusuf3/github-readme-activity-graph)
 
-Languages and tools
+## Languages and Tools
 ![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyebanjiyusuf3&show_icons=true&theme=radical)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyebanjiyusuf3&layout=compact)](https://github.com/oyebanjiyusuf3/github-readme-stats)
 
 <!---
 oyebanjiyusuf3/oyebanjiyusuf3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
