@@ -6,7 +6,7 @@
 
 - 💞️ A competent and innovative software engineer that develops and codes client-facing software applications. 
 - 💞️ Proficiency in HTML, CSS, JavaScript, PHP, MySQL and Microsoft Azure.
-- 💞️ Vast experience in C#.Net, Python for web and Machine Learning
+- 💞️ Appreciable experience in C#.Net, Python for web and Machine Learning
 - 💞️ I have successfully managed and completed over 5 IT product-led projects either as an individual or in a team.
 - 📝 I write articles releated to tech on https://medium.com/@oyebanjiyusuf3.
 - 💞️ Professional experience in software development focuses on digital technology.
