@@ -1,7 +1,7 @@
 
-# Hi, 👋 I’m Yusuf Oyebanji
+# Hi, 👋 
 
-**A passionate Software Engineer from Nigeria but currently in the United Kingdom**
+Yusuf Oyebanji is a passionate Software Engineer from Nigeria but currently in the United Kingdom**
 
 
 - 💞️ A competent and innovative software engineer that develops and codes client-facing software applications. 
