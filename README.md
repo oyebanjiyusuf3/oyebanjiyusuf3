@@ -4,12 +4,10 @@
 Yusuf Oyebanji is a competent software engineer who develops strategic and innovative software applications that improve the efficiency and effectiveness of organizational success. I am well-versed in fully developing software systems that are reliable and user-friendly. These software systems are customised to meet clients’ organizational needs, highlight their core competencies, and advance their success. I have over four years of professional and commercial experience in software development projects, including collaborative projects. I have a sound understanding of best practices around coding standards, security, and performance. I have created and contributed to various open-source projects. I am also a skilled leader with a track record of motivating, educating, and managing a team of professionals to build software programs and track changes effectively.
 
 
-- 💞️ A competent and innovative software engineer that develops and codes client-facing software applications. 
-- 💞️ Proficiency in HTML, CSS, JavaScript, PHP, MySQL and Microsoft Azure.
-- 💞️ Appreciable experience in C#.Net, Python for web and Machine Learning
 - 💞️ I have successfully managed and completed over 5 IT product-led projects either as an individual or in a team.
+
 - 📝 I write articles releated to tech on https://medium.com/@oyebanjiyusuf3.
-- 💞️ Professional experience in software development focuses on digital technology.
+
 - 💬 How to reach me, please send me a mail at oyebanjiyusuf3@gmail.com ...
 
 <!-- [![Yusuf's github activity graph](https://activity-graph.herokuapp.com/graph?username=oyebanjiyusuf3&theme=dracula)](https://github.com/oyebanjiyusuf3/github-readme-activity-graph) -->
