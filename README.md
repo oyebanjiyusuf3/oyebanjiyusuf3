@@ -13,7 +13,7 @@ Yusuf Oyebanji is a competent software engineer who develops strategic and innov
 <!-- [![Yusuf's github activity graph](https://activity-graph.herokuapp.com/graph?username=oyebanjiyusuf3&theme=dracula)](https://github.com/oyebanjiyusuf3/github-readme-activity-graph) -->
 
 
-## Github Statistics and Contributions
+## Github Statistics and Contributions.
 ![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyebanjiyusuf3&show_icons=true&theme=radical)
 
 
