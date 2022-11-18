@@ -1,7 +1,7 @@
 
 # Hi, 👋 
 
-I’m Yusuf Oyebanji.
+# I’m Yusuf Oyebanji.
 A Software Engineer based in United Kingdom.
 
 
