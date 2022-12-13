@@ -5,11 +5,7 @@
 A Software Engineer based in United Kingdom.
 
 
-- 💞️ I have successfully managed and completed over 5 IT product-led projects either as an individual or in a team.
-
-- 📝 I write articles releated to tech on https://medium.com/@oyebanjiyusuf3.
-
-- 💬 How to reach me, please send me a mail at oyebanjiyusuf3@gmail.com ...
+Experienced Software Developer with a demonstrated history of working in the digital technology industry. A skilled Web Engineer specialising in JavaScript, PHP, Databases and Cloud Services. Strong engineering professional with a Master of Science (MSc) 
 
 <!-- [![Yusuf's github activity graph](https://activity-graph.herokuapp.com/graph?username=oyebanjiyusuf3&theme=dracula)](https://github.com/oyebanjiyusuf3/github-readme-activity-graph) -->
 
