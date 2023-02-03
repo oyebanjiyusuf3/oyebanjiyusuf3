@@ -18,7 +18,7 @@ Experienced Software Developer with a demonstrated history of working in the dig
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyebanjiyusuf3&layout=compact)](https://github.com/oyebanjiyusuf3/github-readme-stats)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=oyebanjiyusuf3)
+<!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=oyebanjiyusuf3) -->
 
 
 
