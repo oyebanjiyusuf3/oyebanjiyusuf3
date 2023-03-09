@@ -11,7 +11,7 @@ Experienced Software Developer with a demonstrated history of working in the dig
 
 
 ## Github Statistics and Contributions.
-![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyebanjiyusuf3&show_icons=true&theme=radical)
+![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=abduljeleelng&show_icons=true&theme=radical)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oyebanjiyusuf3&theme=dark)](https://git.io/streak-stats)
