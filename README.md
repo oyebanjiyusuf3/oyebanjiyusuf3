@@ -5,7 +5,7 @@
 A Software Engineer based in United Kingdom.
 
 
-Experienced Software Developer with a demonstrated history of working in the digital technology industry. A skilled Web Engineer specialising in JavaScript, PHP, Databases and Cloud Services. Strong engineering professional with a Master of Science (MSc) 
+Experienced Software Engineer with a demonstrated history of working in the digital technology industry. A skilled Web Engineer specialising in JavaScript, PHP, Databases and Cloud Services. Strong engineering professional with a Master of Science (MSc) 
 
 <!-- [![Yusuf's github activity graph](https://activity-graph.herokuapp.com/graph?username=oyebanjiyusuf3&theme=dracula)](https://github.com/oyebanjiyusuf3/github-readme-activity-graph) -->
 
