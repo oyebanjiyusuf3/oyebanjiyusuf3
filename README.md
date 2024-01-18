@@ -2,10 +2,9 @@
 # Hi, 👋 
 
 # I’m Yusuf Oyebanji.
-A Software Engineer based in the United Kingdom.
+A Software, Data & Analytics Engineer based in the United Kingdom.
 
-
-Experienced Software Engineer with a demonstrated history of working in the digital technology industry. Skilled Web Engineer specialising in JavaScript, PHP, Databases and Cloud Services. Strong engineering professional with a Master of Science (MSc) in Advanced Computer Science
+Results-driven and insightful analyst with proven experience and a strong understanding of web development and digital transformation in various sectors. Leverage advanced analytical tools and techniques to provide actionable insights for complex data and solve complex business challenges and issues. Collaborative team player with excellent interpersonal communication and stakeholder management skills. Quick to assimilate new ideas and highly desiring creativity, innovation, and continuous learning. Strong engineering professional with a Master of Science (MSc) in Advanced Computer Science
 
 <!-- [![Yusuf's github activity graph](https://activity-graph.herokuapp.com/graph?username=oyebanjiyusuf3&theme=dracula)](https://github.com/oyebanjiyusuf3/github-readme-activity-graph) -->
 
