@@ -2,9 +2,8 @@
 # Hi, 👋 
 
 # I’m Yusuf Oyebanji.
-A Software, Data & Analytics Engineer based in the United Kingdom.
+A Results-driven and insightful data analytics engineer with proven experience in business intelligence development, data engineering, cloud infrastructure, and software development. Skilled in designing and optimizing data pipelines, ETL processes, and cloud-based data solutions to drive actionable insights and solve complex business challenges. Proficient in database modelling, data governance, and real-time analytics, fostering a data-driven culture through effective collaboration with stakeholders. Passionate about building scalable and sustainable digital solutions using modern cloud technologies. Quick to assimilate new ideas, with a strong drive for creativity, innovation, and continuous learning.![image](https://github.com/user-attachments/assets/d9444432-9d27-4bf1-8ae3-0ed73fbd10b3)
 
-Results-driven and insightful analyst with proven experience and a strong understanding of data, business intelligent and web development. Leverage advanced analytical tools and techniques to provide actionable insights for complex data and solve complex business challenges and issues. Collaborative team player with excellent interpersonal communication and stakeholder management skills. Quick to assimilate new ideas and highly desiring creativity, innovation, and continuous learning. Strong engineering professional with a Master of Science (MSc) in Advanced Computer Science
 
 <!-- [![Yusuf's github activity graph](https://activity-graph.herokuapp.com/graph?username=oyebanjiyusuf3&theme=dracula)](https://github.com/oyebanjiyusuf3/github-readme-activity-graph) -->
 
