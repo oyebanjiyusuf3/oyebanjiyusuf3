@@ -3,9 +3,9 @@
 
 # I’m Yusuf Oyebanji.
 
-A results-driven and detail-oriented Test Engineer with proven expertise in software engineering, quality assurance, and data-driven testing strategies. Experienced in designing, implementing, and optimizing test frameworks, automation solutions, and CI/CD pipelines to ensure robust, scalable, and high-quality software delivery. Skilled in functional, integration, regression, and performance testing, with hands-on experience across cloud platforms, data pipelines, and enterprise applications.
+A results-driven and detail-oriented Test Engineer with proven expertise in software engineering, quality assurance, and data-driven testing strategies. Experienced in designing, implementing, and optimizing test frameworks, automation solutions, and CI/CD pipelines to ensure robust, scalable, and high-quality software delivery. Skilled in functional, integration, regression, and performance testing, with hands-on experience across cloud platforms and enterprise applications.
 
-Strong background in software development enables deep understanding of system architecture, database modeling, and API testing, bridging the gap between development and QA teams. Adept at leveraging modern tools, scripting, and automation frameworks to enhance test coverage, reduce manual effort, and accelerate release cycles.
+Strong background in software development enables deep understanding of system architecture, database modeling, and API testing, bridging the gap between development and QA teams. Skilled at leveraging modern tools, scripting, and automation frameworks to enhance test coverage, reduce manual effort, and accelerate release cycles.
 
 Passionate about fostering a quality-first mindset, driving collaboration with cross-functional teams, and building sustainable, innovative solutions. Quick to adopt new technologies, with a strong commitment to continuous learning, problem-solving, and delivering business value through reliable, efficient, and well-tested software systems.
 
